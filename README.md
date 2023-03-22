@@ -15,3 +15,6 @@ I am Full Stack Developer
 
 ### You can reach out to me on-
 - [LinkedIn](https://www.linkedin.com/in/rutuvikpatil)
+
+### My Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutuvikp)](https://github.com/rutuvikp/github-readme-stats)
