@@ -21,3 +21,6 @@ I am Full Stack Developer
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutuvikp)](https://github.com/rutuvikp/github-readme-stats)
+
+### My Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight)](https://git.io/streak-stats)
