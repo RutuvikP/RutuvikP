@@ -20,4 +20,4 @@ I am Full Stack Developer
 [![RutuvikP's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutuvikp&theme=radical&show_icons=true)](https://github.com/rutuvikp/github-readme-stats)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutuvikp)](https://github.com/rutuvikp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutuvikp&layout=compact)](https://github.com/rutuvikp/github-readme-stats)
