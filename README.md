@@ -17,4 +17,4 @@ I am Full Stack Developer
 - [LinkedIn](https://www.linkedin.com/in/rutuvikpatil)
 
 ### My Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutuvikp)](https://github.com/rutuvikp/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutuvikp&theme=dark)](https://github.com/rutuvikp/github-readme-stats)
