@@ -4,7 +4,7 @@ I am Full Stack Developer
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about **React | JavaScript | HTML | CSS**
-- 🌐 Checkout my [Portfolio](https://rutuvikp.github.io/) here
+- 🌐 Checkout my Portfolio here- https://rutuvikp.github.io/
 
 
 ### Languages and Tools:
