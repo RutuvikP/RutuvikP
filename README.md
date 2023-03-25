@@ -19,12 +19,9 @@ I am Full Stack Developer
 
 ### My GitHub Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=rutuvikp&theme=radical&show_icons=true" alt="gitStat" />
-[![RutuvikP's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutuvikp&theme=radical&show_icons=true)](https://github.com/rutuvikp/github-readme-stats)
 
 ### Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutuvikp" alt="toplang" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutuvikp)](https://github.com/rutuvikp/github-readme-stats)
 
 ### My Streak Stats
 <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight"/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight)](https://git.io/streak-stats)
