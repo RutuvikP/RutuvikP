@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutuvik Patil</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img src="https://steptodown.com/istock-downloader/images/steptodown.com403258.jpg" width="100%" height="500px" />
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB**
 
